@@ -1,4 +1,4 @@
-# PlantationBench:
+# PlantationBench: Plantation Mapping Baselines for Scalable EUDR Compliance
 
 Data available for download on _Zenodo._
 Processing pipeline to recreate datasets to cloud storage found in chmexports.py. 
