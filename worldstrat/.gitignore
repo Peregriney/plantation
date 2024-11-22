@@ -1,0 +1,11 @@
+*.ipynb_checkpoints*
+wandb/
+lightning_logs/
+.dvc/
+data/*
+dataset/*
+dataset_download/*
+dataset_generation/stratification_datasets/*
+.vscode
+*__pycache__*
+
